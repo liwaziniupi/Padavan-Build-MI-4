@@ -87,7 +87,7 @@ on:
         description: 'Plugin JSON, e.g. {"ss":"n","xray":"n"}'
         required: true
         type: string
-        default: '{"ADGUARDHOME":"y","DDNSTO":"y","shadowsocks":"n","v2ray":"n","xray":"n","trojan":"n","ssobfs":"n","smartdns":"n","vlmcsd":"n","ttyd":"n","iperf3":"n"}'
+        default: '{"ADBYBY":"y","DDNSTO":"y","shadowsocks":"n","v2ray":"n","xray":"n","trojan":"n","ssobfs":"n","smartdns":"n","vlmcsd":"n","ttyd":"n","iperf3":"n"}'
       customization:
         description: 'Customization JSON'
         required: true
